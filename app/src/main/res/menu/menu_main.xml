@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/timetable"
+        android:title="Timetable"
+        android:icon="@drawable/ic_baseline_access_time_24" />
+    <item
+        android:id="@+id/calendar"
+        android:title="Calendar"
+        android:icon="@drawable/ic_round_calendar_24" />
+    <item
+        android:id="@+id/tasklist"
+        android:title="Tasklist"
+        android:icon="@drawable/ic_round_list_bulleted_24" />
+    <item
+        android:id="@+id/informations"
+        android:title="Informations"
+        android:icon="@drawable/ic_round_info_24" />
+
+</menu>

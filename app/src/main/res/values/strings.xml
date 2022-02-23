@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TaskManager</string>
+    <string name="timetable_label">Timetable</string>
+    <string name="calendar_label">Calendar</string>
+    <string name="list_label">Task List</string>
+    <string name="profile_label">Profile</string>
+    <string name="settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="adding_sheet_label">Add new task</string>
+    <string name="category">Category</string>
+    <string name="adding_hint">Task Name</string>
+    <string name="empty_field">Empty task</string>
+    <string name="adding_hint_description">Description</string>
+    <string name="priority_3">Priority 3</string>
+    <string name="priority_2">Priority 2</string>
+    <string name="priority_1">Priority 1</string>
+    <string name="date_adding">Date</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="note_label">Note</string>
+    <string name="events_label">Events</string>
+    <string name="about_project">About Project</string>
+    <string name="pop_up_menu">Pop_up_menu</string>
+    <string name="change_to_dark_mode">Change to Dark Mode</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="about_app">About App</string>
+    <string name="info_about_app">This Application was made as a project for \nObject-oriented Programming classes \n by\n Kacper Bojanowski (405065)\nMateusz Potaśnik (305206)</string>
+
+
+</resources>
